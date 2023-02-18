@@ -1,7 +1,7 @@
 import Foundation
 import Glibc
 
-print("Enter Number...")
+print("Please Enter Number...")
 
 let number = Int(readLine()!)!
 
